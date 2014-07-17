@@ -43,8 +43,8 @@
       <file leaf-file-name="Music2.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/c07/Music2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72295517" vertical-offset="476" max-vertical-offset="855">
-              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.050131924" vertical-offset="476" max-vertical-offset="855">
+              <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
               <folding>
                 <element signature="e#685#686#0" expanded="true" />
                 <element signature="e#741#742#0" expanded="true" />
@@ -586,12 +586,12 @@
       <workItem from="1405582276671" duration="4031000" />
       <workItem from="1405598158147" duration="882000" />
       <workItem from="1405599132841" duration="504000" />
-      <workItem from="1405599666991" duration="1718000" />
+      <workItem from="1405599666991" duration="1119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36076000" />
+    <option name="totallyTimeSpent" value="35477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1008,8 +1008,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/c07/Music2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.72295517" vertical-offset="476" max-vertical-offset="855">
-          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.050131924" vertical-offset="476" max-vertical-offset="855">
+          <caret line="43" column="22" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
           <folding>
             <element signature="e#685#686#0" expanded="true" />
             <element signature="e#741#742#0" expanded="true" />
