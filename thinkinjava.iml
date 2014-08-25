@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://E:/javassist-3.18.2-GA.jar!/" />
+          <root url="jar://$MODULE_DIR$/javassist.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
