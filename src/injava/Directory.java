@@ -69,7 +69,7 @@ public class Directory {
         }
 
         public static TreeInfo walk(File start) {
-            return recurseDirs(start, "。*");
+            return recurseDirs(start, ".*");
         }
 
 
