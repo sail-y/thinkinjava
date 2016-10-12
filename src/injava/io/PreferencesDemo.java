@@ -24,7 +24,8 @@ public class PreferencesDemo {
         for (String key : prefs.keys()) {
             System.out.println(key + ": " + prefs.get(key, null));
         }
-        
+
+
 
     }
 }
