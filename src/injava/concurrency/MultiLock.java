@@ -30,7 +30,7 @@ public class MultiLock {
             @Override
             public void run() {
                 multiLock.f1(10);
-                
+
             }
         }.start();
     }
