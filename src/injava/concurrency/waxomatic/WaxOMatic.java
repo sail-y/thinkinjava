@@ -2,7 +2,7 @@
  * Copyright (c) 2016 xiaomaihd and/or its affiliates.All Rights Reserved.
  *            http://www.xiaomaihd.com
  */
-package injava.concurrency;
+package injava.concurrency.waxomatic;
 
 import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;

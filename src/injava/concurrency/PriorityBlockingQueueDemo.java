@@ -8,7 +8,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Queue;
 import java.util.Random;
-import java.util.concurrent.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.PriorityBlockingQueue;
+import java.util.concurrent.TimeUnit;
 
 /**
  * Created by YangFan on 2016/10/13 下午6:05.
@@ -65,10 +68,11 @@ class PrioritizedTask implements Runnable, Comparable<PrioritizedTask> {
                 if (++count % 5 == 0) {
                     System.out.println();
                 }
-                System.out.println();
-                System.out.println(this + " Calling shutdownNow()");
-                exec.shutdownNow();
             }
+            System.out.println();
+            System.out.println(this + " Calling shutdownNow()");
+            exec.shutdownNow();
+
         }
     }
 }
@@ -130,7 +134,6 @@ class PrioritizedTaskConsumer implements Runnable {
         System.out.println("Finished PrioritizedTaskConsumer");
     }
 }
-
 
 
 public class PriorityBlockingQueueDemo {
