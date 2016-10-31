@@ -2,7 +2,7 @@
  * Copyright (c) 2016 xiaomaihd and/or its affiliates.All Rights Reserved.
  *            http://www.xiaomaihd.com
  */
-package injava.jvmtest.tools;
+package blog.jvm.tools;
 
 /**
  * Created by YangFan on 2016/10/19 下午12:42.

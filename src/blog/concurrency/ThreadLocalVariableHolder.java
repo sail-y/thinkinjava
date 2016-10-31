@@ -2,10 +2,9 @@
  * Copyright (c) 2016 xiaomaihd and/or its affiliates.All Rights Reserved.
  *            http://www.xiaomaihd.com
  */
-package injava.concurrency;
+package blog.concurrency;
 
 import java.util.Random;
-import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;

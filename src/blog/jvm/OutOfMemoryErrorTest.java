@@ -2,7 +2,7 @@
  * Copyright (c) 2016 xiaomaihd and/or its affiliates.All Rights Reserved.
  *            http://www.xiaomaihd.com
  */
-package injava.jvmtest;
+package blog.jvm;
 
 import java.util.concurrent.TimeUnit;
 
